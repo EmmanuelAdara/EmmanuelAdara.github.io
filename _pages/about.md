@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Riley Visiting Assistant Professor in the [Department of Mathematics and Statistics at Binghamton University](https://www.binghamton.edu/math/). I received my Ph.D. (2025) in Mathematics from [The University of Alabama](https://www.ua.edu/), Tuscaloosa, under the supervision of Prof. [Roger B. Sidje](https://math.ua.edu/people/roger-b-sidje/)
+I am Riley Visiting Assistant Professor in the [Department of Mathematics and Statistics at Binghamton University](https://www.binghamton.edu/math/). 
+I received my Ph.D. (2025) in Mathematics from [The University of Alabama](https://www.ua.edu/), Tuscaloosa, under the supervision of Prof. [Roger B. Sidje](https://math.ua.edu/people/roger-b-sidje/)
 
 
 Recent News
@@ -21,6 +22,6 @@ Research Interest
 * Machine Learning in chemical kinetics
 * Metagenome analysis and assembly
 * Dynamical systems and solid mechanics
-#**Markdown generator**
+**Markdown generator**
 
 
