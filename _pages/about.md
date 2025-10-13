@@ -12,16 +12,15 @@ I am Riley Visiting Assistant Professor in the [Department of Mathematics and St
 
 Recent News
 ======
-Aug 12, 2025: Our Conference paper is now available in Communications in [Computer and Information Science](https://link.springer.com/chapter/10.1007/978-3-031-95130-5_3)!
+Aug 12, 2025: Our Conference paper is now available in [Communications in Computer and Information Science](https://link.springer.com/chapter/10.1007/978-3-031-95130-5_3)!
 
 Research Interest
 ======
-Applications in stochastic processes, computational biology, computational engineering
-		\item Stochastic  modeling and simulation	
-		%	\item 
-		\item Machine Learning in chemical kinetics
-		\item Metagenome analysis and assembly
-		\item  Dynamical systems and solid mechanics
-**Markdown generator**
+* Applications in stochastic processes, computational biology, and computational engineering
+* Stochastic  modeling and simulation	
+* Machine Learning in chemical kinetics
+* Metagenome analysis and assembly
+* Dynamical systems and solid mechanics
+#**Markdown generator**
 
 
