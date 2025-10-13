@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emmanuel Adara's Homepage"
+title: "Welcome to my Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am Riley Visiting Assistant Professor in the [Department of Mathematics and St
 I received my Ph.D. (2025) in Mathematics from [The University of Alabama](https://www.ua.edu/), Tuscaloosa, under the supervision of Prof. [Roger B. Sidje](https://math.ua.edu/people/roger-b-sidje/)
 
 
-Recent News
+**Recent News**
 ======
 Aug 12, 2025: Our Conference paper is now available in [Communications in Computer and Information Science](https://link.springer.com/chapter/10.1007/978-3-031-95130-5_3)!
 
@@ -22,6 +22,6 @@ Research Interest
 * Machine Learning in chemical kinetics
 * Metagenome analysis and assembly
 * Dynamical systems and solid mechanics
-**Markdown generator**
+
 
 
