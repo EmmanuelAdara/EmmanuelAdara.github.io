@@ -24,7 +24,6 @@ Work experience
 * Summer 2023, 2024: Graduate Research Fellow
   * Computer Languages & Systems Software (CLaSS) group
   * Lawrence Berkeley National Laboratory, Berkeley, CA,
-  {%* Mentor: Dr. Steven Hofmeyr%}
 
 * 2019 - 2025: Graduate Teaching Assistant
   * Department of Mathematics, The University of Alabama
