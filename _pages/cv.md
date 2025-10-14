@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * August 2025 - Present: Visiting Assistant Professor
- * Department of Mathematics and Statistics, Binghamton University.
+  * Department of Mathematics and Statistics, Binghamton University.
 
 * Summer 2023, 2024: Graduate Research Fellow
   * Computer Languages & Systems Software (CLaSS) group
