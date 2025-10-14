@@ -15,6 +15,20 @@ author_profile: true
 Computational Science and Computational Intelligence. CSCI 2024. Communications in Computer
 and Information Science, vol 2506. Springer, Cham. doi:10.1007/978-3-031-95130-5-3
 
+1. J. Ologbonyo, **E. O. Adara** and R. B. Sidje, [A Machine Learning Approach to Solving Biochemical Systems](https://ieeexplore.ieee.org/document/10504344),2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC)}, Laguna Hills, CA, USA, 2024, pp. 214-219, \href{https://ieeexplore.ieee.org/document/10504344}{doi: 10.1109/AIMHC59811.2024.00046}  }
+
+
+1. Omolofe, B, **Adara, EO.** [Dynamic Amplification Factor and Interactions of a Beam under Compressive Axial Force and Load Travelling at Varying Velocity](https://doi.org/10.1016/j.finmec.2023.100241). Forces in Mechanics} Volume 13,	2023, 100241,	ISSN 2666-3597. \href{https://doi.org/10.1016/j.finmec.2023.100241}{DOI: 10.1016/j.finmec.2023.100241} }.
+
+
+1. **Adara, EO**, and Sidje, Roger B. (2023) [An Implementation of The Method of Moments on Chemical Systems with Constant and Time-dependent Rates](https://orb.binghamton.edu/nejcs/vol5/iss1/8/). Northeast Journal of Complex Systems (NEJCS)} Vol. 5 : No. 1 , Article 8. \href{https://orb.binghamton.edu/nejcs/vol5/iss1/8/}{DOI: 10.22191/nejcs/vol5/iss1/8/} }
+
+	
+\cvitem{}{	\item   \textbf{Adara, EO}, Omolofe B. Dynamic Analysis of Bernoulli-Euler Beams under Compressive Axial Force and Traversed by Masses Travelling at Varying Velocity. \emph{Mechanics of Solids} 57, 178–192 (2022). \href{https://doi.org/10.3103/S0025654422010071}{doi.org/10.3103/S0025654422010071} }
+\vspace{-0.5cm}
+	
+\cvitem{}{	\item  Omolofe, B, \textbf{Adara, EO}. Response Characteristics of a Beam‐mass System with General Boundary Conditions under Compressive Axial Force and Accelerating Masses. \textit{Engineering Reports}. 2020; \textit{2:e12118}. 	\href{https://dx.doi.org/10.1002/eng2.12118}{doi:10.1002/eng2.12118}}
+
 
 
 
