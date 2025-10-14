@@ -32,5 +32,30 @@ Time-dependent Rates".
 University, Nashville, TN, March 17-19, 2023,
 Poster: "Efficient Method of Moments for Approximating VEGF Receptor Models".
 
+* **Annual Lange Symposium, Genomics and Computational Statistics**, University of California,
+Los Angeles (UCLA), Los Angeles, CA, February 03, 2023.
+Jan 2023 Spring Opportunities Workshop 2023, Institute for Advanced Study (IAS), Princeton, NJ,
+January 12-13, 2023.
+
+* **Workshop on Advances in Mathematical Ecology**, Participant, *Virtual, The Fields Institute
+for Research in Mathematical Sciences, Fields Institute, Toronto, Canada, December 6-7, 2022.
+
+* **International Symposium on Biomathematics & Ecology Education and Research**, Illinois
+State University, Normal, IL, November 11-13, 2022,
+Talk: "An Implementation of the Method of Moments on Chemical Systems with Constant and
+Time-dependent Rates".
+
+* **NSF MSGI Summer Research Symposium**, Participant, *Virtual, The National Science
+Foundation (NSF) Division of Mathematical Sciences (DMS), August 25, 2022.
+
+* **FACM 2022-Frontiers in Applied and Computational Mathematics**, New Jersey Institute of
+Technology (NJIT), Newark, NJ, May 20-21, 2022,
+Poster: "A Comparative Simulation of Chemical Kinetics using the Stochastic Simulation
+Algorithm (SSA), Chemical Langevin Equation (CLE), and Moments".
+
+* **2020 Systems Modelling in the Pharmaceutical Industry - Problem Solving Workshop**,
+Participant, *Virtual, Fields Institute and Fields Centre for Quantitative Analysis and Modelling,
+Fields Institute, Toronto, Canada, July 16, 2020.
+
 
 
