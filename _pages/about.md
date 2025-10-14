@@ -17,6 +17,7 @@ Aug 12, 2025: Our Conference paper is now available in [Communications in Comput
 
 Research Interest
 ======
+* Data science applications
 * Applications in stochastic processes, computational biology, and computational engineering
 * Stochastic  modeling and simulation	
 * Machine Learning in chemical kinetics
