@@ -19,7 +19,7 @@ Computational Science and Computational Intelligence. CSCI 2024. Communications 
 1. Omolofe, B, **Adara, EO.** [Dynamic Amplification Factor and Interactions of a Beam under Compressive Axial Force and Load Travelling at Varying Velocity](https://doi.org/10.1016/j.finmec.2023.100241). Forces in Mechanics Volume 13,	2023, 100241,	ISSN 2666-3597. 
 
 
-1. **Adara, EO**, and Sidje, Roger B. (2023) [An Implementation of The Method of Moments on Chemical Systems with Constant and Time-dependent Rates](https://orb.binghamton.edu/nejcs/vol5/iss1/8/). Northeast Journal of Complex Systems (NEJCS)} Vol. 5 : No. 1 , Article 8. 
+1. **Adara, EO**, and Sidje, Roger B. (2023) [An Implementation of The Method of Moments on Chemical Systems with Constant and Time-dependent Rates](https://orb.binghamton.edu/nejcs/vol5/iss1/8/). Northeast Journal of Complex Systems (NEJCS) Vol. 5 : No. 1 , Article 8. 
 
 	
 1. **Adara, EO**, Omolofe B. [Dynamic Analysis of Bernoulli-Euler Beams under Compressive Axial Force and Traversed by Masses Travelling at Varying Velocity](https://doi.org/10.3103/S0025654422010071). Mechanics of Solids 57, 178–192 (2022). 
