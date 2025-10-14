@@ -5,16 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#{% include base_path %}
 
-#{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-#{% endfor %}
-
-Instructor of Record, Department of Mathematics and Statistics, Binghamton University
+### Instructor of Record, Department of Mathematics and Statistics, Binghamton University
 * Math 224/225 Calculus I (Differential and Integral Calculus), Fall 2025
   
-Instructor of Record, Department of Mathematics, The University of Alabama
+### Instructor of Record, Department of Mathematics, The University of Alabama
 
 * Math 238 Applied Differential Equations I, Fall 2024
 * Math 121 Calculus & Applications, Summer I 2024
