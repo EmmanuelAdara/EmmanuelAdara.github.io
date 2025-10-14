@@ -5,15 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 * **International Conference on Computational Science and Computational Intelligence
 (CSCI’24)**, Las Vegas, Nevada, December 11-13, 2024,
 Talk: "Probability Reconstruction for Chemical Kinetics Using Moments".
+
+* **SIAM Conference on Mathematics of Data Science (MDS24)**,
+Atlanta, Georgia, October 21-25, 2024,
+Poster: "Probability Reconstruction for Chemical Kinetics Using a Maximum Entropy Method
+with Moments".
+
+
