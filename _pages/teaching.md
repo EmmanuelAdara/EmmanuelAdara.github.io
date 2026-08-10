@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Instructor of Record, Department of Mathematics and Statistics, Binghamton University
-* Math 323 Calculus III (Multi-variable and Vector Calculus), Fall 2026,
+* Math 323 Calculus III (Multi-variable and Vector Calculus), Fall 2026
 * Math 304 Linear Algebra, Spring 2026
 * Math 224/225 Calculus I (Differential and Integral Calculus), Fall 2025
   
