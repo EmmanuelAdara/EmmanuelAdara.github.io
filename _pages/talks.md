@@ -8,6 +8,12 @@ author_profile: true
 Princeton University, Princeton, NJ, June 28 - July 01, 2026,
 Talk: <a href="https://caarms.princeton.edu/"> "Solving the Chemical Master Equation: From Stochastic Simulation to Machine Learning"</a>.
 
+* **Binghamton Analysis Seminar**, Binghamton, NY, February 04, 2026,
+Talk: "On Methods of Solution to Chemical Master Equation in Biochemical Systems".
+
+* **Research Talk**, Tarleton State University, Stephenville, TX, April 08, 2025,
+Talk: "Exploring Solutions to the Chemical Master Equation in Biochemical Systems".
+
 * **International Conference on Computational Science and Computational Intelligence
 (CSCI’24)**, Las Vegas, Nevada, December 11-13, 2024,
 Talk: "Probability Reconstruction for Chemical Kinetics Using Moments".
