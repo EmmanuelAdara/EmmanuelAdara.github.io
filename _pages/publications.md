@@ -9,7 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-   
+ 1. J. Ologbonyo and **E. O. Adara**, <a href="https://ieeexplore.ieee.org/document/11568585">Kolmogorov-Arnold Network Estimation of Solutions to Biochemical Systems</a>, 2026 Intermountain Engineering, Technology and Computing (IETC), Provo, UT, USA, 2026, pp. 1-6, doi: 10.1109/IETC69527.2026.11568585.
+
 1. **E. O. Adara** and R. B. Sidje, <a href="https://doi.org/10.1007/978-3-031-95130-5_3">Probability Reconstruction for Chemical Kinetics Using Moments</a>,
 Computational Science and Computational Intelligence. CSCI 2024. Communications in Computer and Information Science, vol 2506. Springer, Cham. doi:10.1007/978-3-031-95130-5-3
 
