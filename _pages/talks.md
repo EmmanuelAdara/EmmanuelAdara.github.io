@@ -6,7 +6,7 @@ author_profile: true
 ---
 * **Conference for African-American Researchers in the Mathematical Sciences (CAARMS)**,
 Princeton University, Princeton, NJ, June 28 - July 01, 2026,
-Talk: href= "https://caarms.princeton.edu/speakers/emmanuel-adara" "Solving the Chemical Master Equation: From Stochastic Simulation to Machine Learning".
+Talk: <a href="https://caarms.princeton.edu/speakers/emmanuel-adara"> "Solving the Chemical Master Equation: From Stochastic Simulation to Machine Learning"</a>.
 
 * **International Conference on Computational Science and Computational Intelligence
 (CSCI’24)**, Las Vegas, Nevada, December 11-13, 2024,
