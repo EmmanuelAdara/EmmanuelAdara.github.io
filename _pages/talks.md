@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* **Union College Mathematics Conference**,
+* **<a href="https://www.math.union.edu/~carneys/UnionMathConference2026/UCMC2026index.html"> Union College Mathematics Conference**,
 Union College, Schenectady, NY, September 18 - 20, 2026,
 Talk: <a href="https://www.math.union.edu/~carneys/UnionMathConference2026/UCMC2026index.html"> "Beyond Traditional Solvers: MLPs and KANs for the Chemical Master Equation"</a>.
 
