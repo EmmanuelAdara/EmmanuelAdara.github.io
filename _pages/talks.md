@@ -6,13 +6,13 @@ author_profile: true
 ---
 * **<a href="https://www.math.union.edu/~carneys/UnionMathConference2026/UCMC2026index.html"> Union College Mathematics Conference**,
 Union College, Schenectady, NY, September 18 - 20, 2026,
-Talk: <a href="https://www.math.union.edu/~carneys/UnionMathConference2026/UCMC2026index.html"> "Beyond Traditional Solvers: MLPs and KANs for the Chemical Master Equation"</a>.
+Talk: "Beyond Traditional Solvers: MLPs and KANs for the Chemical Master Equation"</a>.
 
-* **Conference for African-American Researchers in the Mathematical Sciences (CAARMS)**,
+* **<a href="https://caarms.princeton.edu/"> Conference for African-American Researchers in the Mathematical Sciences (CAARMS)**,
 Princeton University, Princeton, NJ, June 28 - July 01, 2026,
-Talk: <a href="https://caarms.princeton.edu/"> "Solving the Chemical Master Equation: From Stochastic Simulation to Machine Learning"</a>.
+Talk: "Solving the Chemical Master Equation: From Stochastic Simulation to Machine Learning"</a>.
 
-* **Binghamton Analysis Seminar**, Binghamton, NY, February 04, 2026,
+* **<a href="https://wiki.mathmig.binghamton.edu/doku.php?id=seminars:anal:spring_2026/"> Binghamton Analysis Seminar**, Binghamton, NY, February 04, 2026,
 Talk: "On Methods of Solution to Chemical Master Equation in Biochemical Systems".
 
 * **International Conference on Computational Science and Computational Intelligence
